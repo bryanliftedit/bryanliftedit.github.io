@@ -25,11 +25,11 @@ I picked up a pair of Aruba AP315 campus APs for around $30 shipped, and the pro
 * Configure a TFTP server on the same network containing the relevant Aruba firmware for your model.  **You will need to be on 8.6 or newer firmware.**
 
 * Connect a serial console cable from your laptop to the access point.
-    * Depending on the model, this may require a special cable.  Aruba does sell one, but I happened to have [these](https://www.amazon.com/IZOKEE-CP2102-Converter-Adapter-Downloader/dp/B07D6LLX19/ref=sr_1_5?crid=102PLNI4PRBN1&dib=eyJ2IjoiMSJ9.VcBZTY7hnkmhHf7Flvr9wP1b_Nhx37X0fRb6JG7yQtIXU2cQH5oBa3iz0CpqNh3gWe6CtqqYoCpAVq6ttb1lC8f02IwFfw6k0iUbvSLL42yMQbYD0CLTZg-r830pPyJZrnCC0BpLEJbPqZq9kBn-XsAFrEnQXiv6XnV8UuEbjzDd1VNVv-wAX4brxUvlFUyOAxhmFoxCgM-fVWntzR8iBK0z69Sa9SnmACbc1mzOwjA.RBvp_74J7fYm7IkTrXLOh9ukGmaZOzwfznjdJs0plDY&dib_tag=se&keywords=usb+uart&qid=1723004615&sprefix=usb+uart%2Caps%2C99&sr=8-5) on hand.  The pinout with the large notch on top, from left to right is:  GND, TX, RX, 3.3v
+    * Depending on the model, this may require a special cable.  Aruba does sell one, but I happened to have [these](https://www.amazon.com/IZOKEE-CP2102-Converter-Adapter-Downloader/dp/B07D6LLX19/ref=sr_1_5?crid=102PLNI4PRBN1&dib=eyJ2IjoiMSJ9.VcBZTY7hnkmhHf7Flvr9wP1b_Nhx37X0fRb6JG7yQtIXU2cQH5oBa3iz0CpqNh3gWe6CtqqYoCpAVq6ttb1lC8f02IwFfw6k0iUbvSLL42yMQbYD0CLTZg-r830pPyJZrnCC0BpLEJbPqZq9kBn-XsAFrEnQXiv6XnV8UuEbjzDd1VNVv-wAX4brxUvlFUyOAxhmFoxCgM-fVWntzR8iBK0z69Sa9SnmACbc1mzOwjA.RBvp_74J7fYm7IkTrXLOh9ukGmaZOzwfznjdJs0plDY&dib_tag=se&keywords=usb+uart&qid=1723004615&sprefix=usb+uart%2Caps%2C99&sr=8-5) on hand.  The pinout - large notch on top, from left to right is:  GND, TX, RX, 3.3v - 9600 baud
 
 * SHA1 hash of the string ```US-<serial number from your device>```
     * Example:  US-CNJ1389 =  5aacc69894c36ecf89c28a567eaa6df1fb5b03f3
-    * [https://sha1-online.com](https://sha1-online.com)
+    * [SHA1 Hash Calc](https://passwordsgenerator.net/sha1-hash-generator/)
 
 #### Procedure
 
