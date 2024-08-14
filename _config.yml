@@ -23,7 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://www.technicalmayhem.com"
 
 github:
   username: bryanliftedit # change to your github username
@@ -136,7 +136,7 @@ assets:
     env: # [development | production]
 
 pwa:
-  enabled: true # the option for PWA feature (installable)
+  enabled: false # the option for PWA feature (installable)
   cache:
     enabled: true # the option for PWA offline cache
     # Paths defined here will be excluded from the PWA cache.
@@ -148,7 +148,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "https://www.technicalmayhem.com"
 
 # ------------ The following options are not recommended to be modified ------------------
 
