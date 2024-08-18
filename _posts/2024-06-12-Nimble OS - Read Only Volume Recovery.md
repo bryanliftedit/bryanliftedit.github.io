@@ -3,6 +3,7 @@ title: Nimble OS - Read Only Volume Recovery
 date: 2024-06-12 12:00:00 +/-TTTT
 categories: [Hardware, Nimble OS]
 tags: [hardware,nimble os]     # TAG names should always be lowercase
+description: How to quickly and programmatically bring offline Nimble VVOLs back to life and the bug that required it.
 ---
 
 ## Background

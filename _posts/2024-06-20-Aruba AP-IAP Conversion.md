@@ -3,6 +3,7 @@ title: Aruba AP-IAP Conversion
 date: 2024-06-20 12:00:00 +/-TTTT
 categories: [Hardware,Aruba]
 tags: [hardware,aruba]     # TAG names should always be lowercase
+description: Aruba campus to instant access point conversion -or- cost effective enterprise class wifi for the home.
 ---
 
 ## Background
