@@ -8,7 +8,7 @@ description: Aruba campus to instant access point conversion -or- cost effective
 
 ## Background
 
-For the past several years I've used a Ubiquiti gear for my home WiFi.  It has worked, mostly, but I have run into instances where it seems to hiccup and require us to reconnect or reboot the AP itself.  I also had some coverage issues that really required a second AP.  Call it prosumer if you want, but I've long considered ditching this in lieu of the actual enterprise gear I manage professionally daily.  Cost here has always been an issue.
+For the past several years I've used Ubiquiti gear for my home WiFi.  It has worked, mostly, but I have run into instances where it seems to hiccup and require us to reconnect or reboot the AP itself.  I also had some coverage issues that really required a second AP.  Call it prosumer if you want, but I've long considered ditching this in lieu of the actual enterprise gear I manage professionally daily.  Cost here has always been an issue.
 
 Enter decommissioned (but still very capable) Aruba campus APs.
 
